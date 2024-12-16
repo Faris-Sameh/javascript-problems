@@ -1,0 +1,11 @@
+body{
+    background-color: #f3f4f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    font-family: sans-serif;
+    color: chocolate;
+}
